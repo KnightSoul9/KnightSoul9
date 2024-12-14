@@ -2,15 +2,16 @@
 
 <p align="center">
   <a href="mailto:satysatyam14@gmail.com">
-    <img src="https://img.icons8.com/ios/452/email-open.png" alt="Email" width="60" height="60"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/contacts.png" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/satyam-7b60b7224/">
-    <img src="https://img.icons8.com/ios/452/linkedin-circled.png" alt="LinkedIn" width="60" height="60"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://www.holopin.io/@knightsoul9#badges">
-    <img src="https://img.icons8.com/ios/452/award.png" alt="Holopin" width="60" height="60"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/award.png" alt="Holopin"/>
   </a>
 </p>
+
 
 
 ---
