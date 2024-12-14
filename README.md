@@ -1,16 +1,17 @@
 # 👋 Hi, I’m Satyam  
 
 <p align="center">
-  <a href="mailto:satysatyam14@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios/500/email-open.png" alt="Email" width="120" height="120"/>
+  <a href="mailto:satysatyam14@gmail.com">
+    <img src="https://img.icons8.com/ios/452/email-open.png" alt="Email" width="60" height="60"/>
   </a>
-  <a href="https://www.linkedin.com/in/satyam-7b60b7224/" target="_blank">
-    <img src="https://img.icons8.com/ios/500/linkedin.png" alt="LinkedIn" width="120" height="120"/>
+  <a href="https://www.linkedin.com/in/satyam-7b60b7224/">
+    <img src="https://img.icons8.com/ios/452/linkedin-circled.png" alt="LinkedIn" width="60" height="60"/>
   </a>
-  <a href="https://www.holopin.io/@knightsoul9#badges" target="_blank">
-    <img src="https://img.icons8.com/ios/500/award.png" alt="Holopin" width="120" height="120"/>
+  <a href="https://www.holopin.io/@knightsoul9#badges">
+    <img src="https://img.icons8.com/ios/452/award.png" alt="Holopin" width="60" height="60"/>
   </a>
 </p>
+
 
 ---
 
