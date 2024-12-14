@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Satyam  
 
----
 
 ## 👀 Current Overview  
 
