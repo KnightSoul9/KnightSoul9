@@ -39,11 +39,7 @@ I have built multiple projects, including:
 ## 🌟 Holopin Badges  
 
 [![Holopin Badges](https://holopin.me/knightsoul9)](https://www.holopin.io/@knightsoul9#badges)   
-[![Badge](https://holopin.me/cm2rv1qty199070cjvbwwm86pk)](https://holopin.io/@knightsoul9#badges)  
-[![Badge](https://holopin.me/cm322ac8t149500cmfxtq6sk3c)](https://holopin.io/@knightsoul9#badges)  
-[![Badge](https://holopin.me/cm322ja7t43760cl8ucttihib)](https://holopin.io/@knightsoul9#badges)  
-[![Badge](https://holopin.me/cm322ja5r43700cl8o7i9i5y1)](https://holopin.io/@knightsoul9#badges)  
-[![Badge](https://holopin.me/cm322jpfz44730cl8gnmpjdms)](https://holopin.io/@knightsoul9#badges)  
+
 
 
 ---
