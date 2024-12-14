@@ -1,5 +1,21 @@
 # 👋 Hi, I’m Satyam  
 
+<p align="center">
+  <a href="mailto:satysatyam14@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios/500/email-open.png" alt="Email" width="120" height="120"/>
+  </a>
+  <a href="https://www.linkedin.com/in/satyam-7b60b7224/" target="_blank">
+    <img src="https://img.icons8.com/ios/500/linkedin.png" alt="LinkedIn" width="120" height="120"/>
+  </a>
+  <a href="https://www.holopin.io/@knightsoul9#badges" target="_blank">
+    <img src="https://img.icons8.com/ios/500/award.png" alt="Holopin" width="120" height="120"/>
+  </a>
+</p>
+
+---
+
+## 👀 Current Overview  
+
 - 👀 I’m passionate about **Software Development**, **Website Development**, and exploring **Blockchain Technology**.  
 - 🌱 I’m currently advancing my expertise in **Full-Stack Development** and **3D Portfolio Optimization**.  
 - 💞️ I’m looking to collaborate on projects that involve **MERN Stack**, **Blockchain**, and innovative **Web Development**.  
@@ -28,19 +44,21 @@ I have built multiple projects, including:
 
 ## 💻 Technical Skills  
 
-- **Programming Languages**: C++, C, JavaScript, SQL  
-- **Web Technologies**: React.js, Node.js, HTML, CSS, TailwindCSS  
-- **Database Management**: MongoDB, MySQL  
-- **Tools & Platforms**: Git, Netlify  
-- **Blockchain**: Smart Contracts, Hardhat  
+<p align="center">
+  <img src="https://img.icons8.com/color/500/react-native.png" alt="React" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/nodejs.png" alt="Node.js" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/mongodb.png" alt="MongoDB" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/javascript.png" alt="JavaScript" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/html-5.png" alt="HTML" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/css3.png" alt="CSS" width="100" height="100"/>
+  <img src="https://img.icons8.com/color/500/tailwindcss.png" alt="TailwindCSS" width="100" height="100"/>
+</p>
 
 ---
 
 ## 🌟 Holopin Badges  
 
 [![Holopin Badges](https://holopin.me/knightsoul9)](https://www.holopin.io/@knightsoul9#badges)   
-
-
 
 ---
 
