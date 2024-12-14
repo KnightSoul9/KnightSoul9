@@ -38,9 +38,11 @@ I have built multiple projects, including:
   <img src="https://img.icons8.com/color/500/html-5.png" alt="HTML" width="90" height="90"/>
   <img src="https://img.icons8.com/color/500/css3.png" alt="CSS" width="90" height="90"/>
   <img src="https://img.icons8.com/color/500/tailwindcss.png" alt="TailwindCSS" width="90" height="90"/>
-  <img src="https://img.icons8.com/ios/500/express-js.png" alt="Express" width="90" height="90"/>
-  <img src="https://img.icons8.com/ios/500/hardhat.png" alt="Hardhat" width="90" height="90"/>
-  <img src="https://img.icons8.com/ios/500/postman-api.png" alt="Postman" width="90" height="90"/>
+  <img src="https://img.icons8.com/ios/452/express-js.png" alt="Express" width="90" height="90"/>
+  <!-- Hardhat Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Hardhat_Logo.svg" alt="Hardhat" width="90" height="90"/>
+  <!-- Postman API Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Postman_logo.svg" alt="Postman" width="90" height="90"/>
   <img src="https://img.icons8.com/color/500/git.png" alt="Git" width="90" height="90"/>
 </p>
 
