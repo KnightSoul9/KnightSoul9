@@ -3,7 +3,7 @@
 ## 👀 Current Overview  
 
 - 🔍 I’m passionate about **Software Development**, **Website Development**, and exploring **Blockchain Technology**.  
-- 🌱 I’m currently advancing my expertise in **Full-Stack Development** and **3D Portfolio Optimization**.  
+- 🌱 I’m currently advancing my expertise in **Full-Stack Development**. 
 - 💞️ I’m looking to collaborate on projects that involve **MERN Stack**, **Blockchain**, and innovative **Web Development**.  
 - 📫 How to reach me: **[satysatyam14@gmail.com](mailto:satysatyam14@gmail.com)**  
 
@@ -52,11 +52,10 @@ I have built multiple projects, including:
 
 ## 🌐 Connect With Me  
 
-<p align="center">
-  📧 Email: [satysatyam14@gmail.com](mailto:satysatyam14@gmail.com)  
-  💼 LinkedIn: [Satyam on LinkedIn](https://www.linkedin.com/in/satyam-7b60b7224/)  
-  🏅 Holopin: [My Holopin Badges](https://www.holopin.io/@knightsoul9#badges)
-</p>
+- 📧 Email: [satysatyam14@gmail.com](mailto:satysatyam14@gmail.com)  
+- 💼 LinkedIn: [Satyam on LinkedIn](https://www.linkedin.com/in/satyam-7b60b7224/)  
+- 🏅 Holopin: [My Holopin Badges](https://www.holopin.io/@knightsoul9#badges)
+
 
 ---
 
