@@ -59,9 +59,25 @@ I have built multiple projects, including:
 
 ---
 
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KnightSoul9&show_icons=true&theme=tokyonight" alt="Satyam's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightSoul9&theme=tokyonight" alt="Satyam's GitHub Streak" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=KnightSoul9&show_icons=true&theme=radical" alt="Satyam's GitHub Stats" height="180"/>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KnightSoul9&theme=radical" alt="Satyam's GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightSoul9&layout=compact&theme=radical" alt="Satyam's Top Languages" height="180"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KnightSoul9&bg_color=1A1B27&color=E91E63&line=E91E63&point=FFFFFF&area=true&hide_border=true" alt="Satyam's Activity Graph" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Trophy Showcase -->
+  <img src="https://github-profile-trophy.vercel.app/?username=KnightSoul9&theme=radical&no-frame=true&row=1&column=6" alt="Satyam's GitHub Trophies" />
 </p>
